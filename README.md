@@ -46,3 +46,5 @@ All financial metrics are internally consistent. The dataset is synthetic and cr
 - Higher discount rates are associated with lower profit margins.
 - Payment methods show varied revenue contributions, indicating differences in customer purchasing behavior.
 - Monthly performance trends indicate relatively stable revenue with seasonal fluctuations.
+
+Dataset: https://www.kaggle.com/datasets/amar5693/retail-business-analytics-dataset-10k-orders
